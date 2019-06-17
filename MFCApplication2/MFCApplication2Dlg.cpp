@@ -105,7 +105,7 @@ void CMFCApplication2Dlg::OnSysCommand(UINT nID, LPARAM lParam)
 {
 	int i = 20;
 	i = i + 100;
-	MessageBox(NULL, _T("Sathi NTR Fan IKKADA "));
+	MessageBox(NULL, _T("Murali NTR Fan IKKADA "));
 	//MessageBox("Any text here");
 	if ((nID & 0xFFF0) == IDM_ABOUTBOX)
 	{
